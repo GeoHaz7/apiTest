@@ -8,7 +8,51 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "data": {
+    "status": 2,
+    "models": [
+      {
+        "modelID": "00000000-0000-0000-0000-000000000000",
+        "modelName": "Allplan - Agile Office",
+        "total": 132,
+        "types": [
+          {
+            "type": "Wall",
+            "total": 132,
+            "ifcEntities": [
+              {
+                "id": "2b584ff0-5125-4790-89e2-5541e9c0f0c0",
+                "name": "Trockenbau",
+                "type": "Wall",
+                "ifcID": "1MU428rKX5x9du4W29XPiw",
+                "modelName": "Allplan - Agile Office",
+                "modelID": "62d318ef-f4cf-478f-b487-4abe02307f0e",
+                "objectPlacement": "0 1 0 0 -1 0 0 0 0 0 1 0 97.625 -25.479997000000001 4.3300000000000001 1"
+              },
+              {
+                "id": "686c5b7c-02c9-49f9-a2bc-c050d12e448d",
+                "name": "Trockenbau",
+                "type": "Wall",
+                "ifcID": "1QG5o679jA3uLYkm5CVYGu",
+                "modelName": "Allplan - Agile Office",
+                "modelID": "62d318ef-f4cf-478f-b487-4abe02307f0e",
+                "objectPlacement": "0 -1 0 0 1 0 0 0 0 0 1 0 97.5 -6.6900000000000004 4.1399999999999997 1"
+              },
+              {
+                "id": "7ed7f67c-d779-4143-a991-4cc3e4799850",
+                "name": "Trockenbau",
+                "type": "Wall",
+                "ifcID": "3JpFqLhH54meY9NNjs2kut",
+                "modelName": "Allplan - Agile Office",
+                "modelID": "62d318ef-f4cf-478f-b487-4abe02307f0e",
+                "objectPlacement": "-1 0 0 0 0 -1 0 0 0 0 1 0 101.53 -25.479997000000001 4.3300000000000001 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "total": 132,
+    "ungroupedIfcEntities": []
   }
 }
