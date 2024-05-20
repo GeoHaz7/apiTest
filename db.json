@@ -8,51 +8,103 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "data": {
+  "profile": {
     "status": 2,
     "models": [
       {
         "modelID": "00000000-0000-0000-0000-000000000000",
-        "modelName": "Allplan - Agile Office",
-        "total": 132,
+        "modelName": "GRAPHISOFT_Arc",
+        "total": 227,
         "types": [
           {
-            "type": "Wall",
-            "total": 132,
+            "type": "Curtain Wall",
+            "total": 1,
             "ifcEntities": [
               {
-                "id": "2b584ff0-5125-4790-89e2-5541e9c0f0c0",
-                "name": "Trockenbau",
+                "id": "635b1d50-b696-41bf-b0d0-7662e1867a7f",
+                "name": "CW-001",
+                "type": "Curtain Wall",
+                "ifcID": "1wRCpMRxjfHQMPWTzREJ$B",
+                "modelName": "GRAPHISOFT_Arc",
+                "modelID": "ecbdcacb-a640-476b-a03d-02f6b68a1b5d",
+                "objectPlacement": "0.51760888533409521 -0.85561734544315748 0 0 0.85561734544315748 0.51760888533409521 0 0 0 0 1 0 68302.425663402682 -18167.585515228348 0 1"
+              }
+            ]
+          },
+          {
+            "type": "Wall",
+            "total": 226,
+            "ifcEntities": [
+              {
+                "id": "529a688d-2eb6-4e03-a5b1-47031205f04d",
+                "name": "SW-01",
                 "type": "Wall",
-                "ifcID": "1MU428rKX5x9du4W29XPiw",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "62d318ef-f4cf-478f-b487-4abe02307f0e",
-                "objectPlacement": "0 1 0 0 -1 0 0 0 0 0 1 0 97.625 -25.479997000000001 4.3300000000000001 1"
+                "ifcID": "0s5QidivE9WGopj2A5Mk_A",
+                "modelName": "GRAPHISOFT_Arc",
+                "modelID": "ecbdcacb-a640-476b-a03d-02f6b68a1b5d",
+                "objectPlacement": "0.51760888533409521 -0.85561734544315748 0 0 0.85561734544315748 0.51760888533409521 0 0 0 0 1 0 62732.237741307283 -25043.531487794055 8600 1"
               },
               {
-                "id": "686c5b7c-02c9-49f9-a2bc-c050d12e448d",
-                "name": "Trockenbau",
+                "id": "587748cf-1665-4a76-9bbd-fbf9012457fe",
+                "name": "SW-02",
                 "type": "Wall",
-                "ifcID": "1QG5o679jA3uLYkm5CVYGu",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "62d318ef-f4cf-478f-b487-4abe02307f0e",
-                "objectPlacement": "0 -1 0 0 1 0 0 0 0 0 1 0 97.5 -6.6900000000000004 4.1399999999999997 1"
+                "ifcID": "2ober21ZEvJRB7YAg0tuNH",
+                "modelName": "GRAPHISOFT_Arc",
+                "modelID": "ecbdcacb-a640-476b-a03d-02f6b68a1b5d",
+                "objectPlacement": "-0.51760888533409521 0.85561734544315748 0 0 -0.85561734544315748 -0.51760888533409521 0 0 0 0 1 0 76506.88489234072 -40085.442958764957 -4005 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "modelID": "00000000-0000-0000-0000-000000000000",
+        "modelName": "GRAPHISOFT_Arc-2",
+        "total": 227,
+        "types": [
+          {
+            "type": "Curtain Wall",
+            "total": 1,
+            "ifcEntities": [
+              {
+                "id": "9d7c914f-df7e-406d-82d8-443282617b44",
+                "name": "CW-001",
+                "type": "Curtain Wall",
+                "ifcID": "1wRCpMRxjfHQMPWTzREJ$B",
+                "modelName": "GRAPHISOFT_Arc-2",
+                "modelID": "6a05e7b1-d1b3-44d6-a23e-a5a4d9c84286",
+                "objectPlacement": "0.51760888533409521 -0.85561734544315748 0 0 0.85561734544315748 0.51760888533409521 0 0 0 0 1 0 68302.425663402682 -18167.585515228348 0 1"
+              }
+            ]
+          },
+          {
+            "type": "Wall",
+            "total": 226,
+            "ifcEntities": [
+              {
+                "id": "500d88e8-5970-4ca3-8ca9-73cce937f6d9",
+                "name": "FW-07",
+                "type": "Wall",
+                "ifcID": "3cIKjJ4gL7GR6tQSCxpl91",
+                "modelName": "GRAPHISOFT_Arc-2",
+                "modelID": "6a05e7b1-d1b3-44d6-a23e-a5a4d9c84286",
+                "objectPlacement": "0.51760888533409521 -0.85561734544315748 0 0 0.85561734544315748 0.51760888533409521 0 0 0 0 1 0 76335.231222658986 -40043.191838839615 0 1"
               },
               {
-                "id": "7ed7f67c-d779-4143-a991-4cc3e4799850",
-                "name": "Trockenbau",
+                "id": "cd9cf390-c907-47cf-9fb4-5e805a04bec8",
+                "name": "FW-07",
                 "type": "Wall",
-                "ifcID": "3JpFqLhH54meY9NNjs2kut",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "62d318ef-f4cf-478f-b487-4abe02307f0e",
-                "objectPlacement": "-1 0 0 0 0 -1 0 0 0 0 1 0 101.53 -25.479997000000001 4.3300000000000001 1"
+                "ifcID": "05pHSwzgHDPuukB5Hs_ogP",
+                "modelName": "GRAPHISOFT_Arc-2",
+                "modelID": "6a05e7b1-d1b3-44d6-a23e-a5a4d9c84286",
+                "objectPlacement": "0.85561734544315748 0.51760888533409521 0 0 -0.51760888533409521 0.85561734544315748 0 0 0 0 1 0 76464.633708697686 -40257.096612763111 0 1"
               }
             ]
           }
         ]
       }
     ],
-    "total": 132,
+    "total": 454,
     "ungroupedIfcEntities": []
   }
 }
