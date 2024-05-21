@@ -1,67 +1,67 @@
 {
-  "allplanWalls": {
+  "allplanSpaces": {
     "status": 2,
     "models": [
-      {
-        "modelID": "00000000-0000-0000-0000-000000000000",
-        "modelName": "Allplan - Agile Office",
-        "total": 132,
-        "types": [
-          {
-            "type": "Wall",
-            "total": 132,
-            "ifcEntities": [
-              {
-                "id": "2997079f-f533-4e99-acd8-085769e38051",
-                "name": "Trockenbau",
-                "type": "Wall",
-                "ifcID": "0DzJ5LJSn5ax67uov8abgc",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
-                "objectPlacement": "1 0 0 0 0 1 0 0 0 0 1 0 91.75 42 11.34 1"
-              },
-              {
-                "id": "7cba0179-556d-4b9c-89bb-a344d3efd003",
-                "name": "Trockenbau",
-                "type": "Wall",
-                "ifcID": "13MLW3eAj0cRI180KVxFIe",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
-                "objectPlacement": "0 1 0 0 -1 0 0 0 0 0 1 0 92.290000000000006 -10.539999999999999 4.1399999999999997 1"
-              },
-              {
-                "id": "3680b406-80c3-45b7-8553-a4af2b4fa03b",
-                "name": "Trockenbau",
-                "type": "Wall",
-                "ifcID": "3hTWQAyljDmgTcfyiUwghY",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
-                "objectPlacement": "0 -1 0 0 1 0 0 0 0 0 1 0 97.5 -2.9399999999999999 4.1399999999999997 1"
-              },
-              {
-                "id": "c02a9c0a-7d39-4382-ab71-ccc316cac9dc",
-                "name": "Trockenbau",
-                "type": "Wall",
-                "ifcID": "3GH11RXdf3R8rymCa24hZF",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
-                "objectPlacement": "-1 0 0 0 0 -1 0 0 0 0 1 0 101.55 22.170000000000002 7.7400000000000002 1"
-              },
-              {
-                "id": "70b805aa-183d-4445-aa08-96b03158adc9",
-                "name": "Trockenbau",
-                "type": "Wall",
-                "ifcID": "0DweCW$KP6qPA7RVJebmQh",
-                "modelName": "Allplan - Agile Office",
-                "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
-                "objectPlacement": "0.99536473615250953 0.096171939899563352 0 0 -0.096171939899563352 0.99536473615250953 0 0 0 0 1 0 46.832751000000002 37.239756 7.7400000000000002 1"
-              }
+        {
+            "modelID": "00000000-0000-0000-0000-000000000000",
+            "modelName": "Allplan - Agile Office",
+            "total": 35,
+            "types": [
+                {
+                    "type": "Space",
+                    "total": 35,
+                    "ifcEntities": [
+                        {
+                            "id": "ca2e3cab-e3e1-49c9-99d1-f7a1ca24a6ad",
+                            "name": "E2.O.17",
+                            "type": "Space",
+                            "ifcID": "38G1uCH7XBMxNfM4H_hMOB",
+                            "modelName": "Allplan - Agile Office",
+                            "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
+                            "objectPlacement": "1 0 0 0 0 1 0 0 0 0 1 0 88.489999999999995 4.5599999999999996 7.7400000000000002 1"
+                        },
+                        {
+                            "id": "d2354d07-1718-4d4c-a364-34b07bf44e53",
+                            "name": "E1.O.14",
+                            "type": "Space",
+                            "ifcID": "3lRDkx$Ir3avSHvRDxzVmf",
+                            "modelName": "Allplan - Agile Office",
+                            "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
+                            "objectPlacement": "1 0 0 0 0 1 0 0 0 0 1 0 92.984999999999999 -17.91 4.1399999999999997 1"
+                        },
+                        {
+                            "id": "01df4569-ec71-4dea-a67d-6d6eebf44e61",
+                            "name": "E1.O.13",
+                            "type": "Space",
+                            "ifcID": "0kXLVZ3b9FnQru2AeHNdTF",
+                            "modelName": "Allplan - Agile Office",
+                            "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
+                            "objectPlacement": "1 0 0 0 0 1 0 0 0 0 1 0 97.599999999999994 -17.91 4.1399999999999997 1"
+                        },
+                        {
+                            "id": "0b538d13-8fc9-4813-a9c1-49b56210d54c",
+                            "name": "E1.O.05",
+                            "type": "Space",
+                            "ifcID": "1wygCORj5D8xXJD5FzjUIG",
+                            "modelName": "Allplan - Agile Office",
+                            "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
+                            "objectPlacement": "1 0 0 0 0 1 0 0 0 0 1 0 97.599999999999994 12.06 4.1399999999999997 1"
+                        },
+                        {
+                            "id": "5b969bf3-48c9-4ae8-bb79-3e12da40a79f",
+                            "name": "E1.O.02",
+                            "type": "Space",
+                            "ifcID": "089mgvw5r0LwiQawlSfoDc",
+                            "modelName": "Allplan - Agile Office",
+                            "modelID": "ed8b1430-50a4-4b35-8a2e-beb1df7c1ce6",
+                            "objectPlacement": "1 0 0 0 0 1 0 0 0 0 1 0 94.325000000000003 -17.960000000000001 4.1399999999999997 1"
+                        },
+                    ]
+                }
             ]
-          }
-        ]
-      }
+        }
     ],
     "total": 5,
     "ungroupedIfcEntities": []
-  }
+}
 }
